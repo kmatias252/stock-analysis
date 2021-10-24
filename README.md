@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-To assist Steve in finding the total daily volume and yearly return for each stock, we will refactor our “All Stock Analysis” VBA code to loop through the entire stock market data and determine if refactoring the VBA code yields a faster output. 
+The purpose of the project was to assist Steve determine what stock was worth investing in by finding the total daily volume and yearly return for each stock. We refactored our “All Stock Analysis” VBA code to loop through the entire stock market data and determine if refactoring the VBA code would yield a faster output. 
 
 ## Results 
 
