@@ -31,14 +31,15 @@ Tickers "ENPH" and "RUN" were the only stocks with positive returns in 2018.
 
 ![Stock Analysis OUtput - 2018](https://user-images.githubusercontent.com/91925639/138618377-0b78cf53-1b13-44b3-a49a-62bbafeeec8f.png)
 
-### Time Eplapsed for the VBA Code - 2017
+### Time Eplapsed for Refactored All Stock Analysis VBA Code - 2017
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/91925639/138574339-f2825ddb-373e-4961-804b-77c6af0290fd.png)
-### Time Eplapsed for the VBA Code - 2018
+### Time Eplapsed for Refactored All Stock Analysis VBA Code - 2018
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/91925639/138574353-78502403-48f5-467c-9f0a-04e74dfe5d5f.png)
 
 ## Summary
 
 ### Advantages & Disadvantages of Refactoring Code 
+One major advantage of the refactored VBA code was the reduced macro-run time. Before refactoring our VBA code the macro would take 0.6 seconds to run and after refactoring it took 0.1 seconds to run. Not only is the refactored code 6x faster but the syntax of our code is cleaner and more concise for future use. Disadvantages of the refactored code are that the process of refactoring can be lengthy and there is potential to introduce errors into your code which you now need to carve out time for debugging so the code can run properly.
 
-### Advantages & Disadvantages of Original vs Refactored VBA Script 
-
+### Pros and Cons of Refactoring vs. Original VBA Code
+The pros of the refactored code vs. the original are that you end up with a code that runs faster, is well organized and will be more reliable to reference for future projects with that data set. The cons are that refactoring your code takes more time and requires a strong attention to detail in the initial to set up so that you can produce an accurate output. Additionally, the refactored code is not compatible with possible additional data sets that have different formatting. In this case, the pros outweigh the cons in terms of our refactored VBA code vs. the original VBA code.
