@@ -10,10 +10,10 @@ The purpose of the project was to assist Steve determine what stock was worth in
 ### Analysis 
 
 
-###Stock Analysis Output for 2017
+### Stock Analysis Output for 2017
 ![Stock Analysis Output - 2017](https://user-images.githubusercontent.com/91925639/138618321-9fb79d67-7ecb-4601-9deb-2f56e712cbee.png)
-###Stock Analysis Output for 2018
-
+### Stock Analysis Output for 2018
+![Stock Analysis OUtput - 2018](https://user-images.githubusercontent.com/91925639/138618377-0b78cf53-1b13-44b3-a49a-62bbafeeec8f.png)
 
 ### Time Eplapsed for the VBA Code - 2017
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/91925639/138574339-f2825ddb-373e-4961-804b-77c6af0290fd.png)
