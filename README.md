@@ -8,10 +8,13 @@ The purpose of the project was to assist Steve determine what stock was worth in
 ## Results 
 
 ### Analysis 
+Below are the procedures I took to refactor our All Stock Analysis VBA Code.
 
+1. 
 
 ### All Stock Analysis Output for 2017
 Ticker "TERP" was the only stock with a negative return in 2017.
+
 ![Stock Analysis Output - 2017](https://user-images.githubusercontent.com/91925639/138618321-9fb79d67-7ecb-4601-9deb-2f56e712cbee.png)
 
 ### All Stock Analysis Output for 2018
